@@ -56,3 +56,8 @@ code {
   margin-right: 10px;
   margin-left: 10px;
 }
+
+.tengah .col-cent {
+  margin-bottom: 20px;
+  text-align: center;
+}
